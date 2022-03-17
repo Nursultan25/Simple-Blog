@@ -11,8 +11,6 @@ import java.util.List;
 @Getter
 @Setter
 @NoArgsConstructor
-@AllArgsConstructor
-@Builder
 public class Blog implements Serializable {
     @Id
             @GeneratedValue(strategy = GenerationType.AUTO)
