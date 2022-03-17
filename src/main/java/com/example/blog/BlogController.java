@@ -20,11 +20,7 @@ public class BlogController {
     @PostMapping("/create")
     public ResponseEntity<?> create(@RequestBody Blog project) {
         try {
-            return ResponseEntity.status(HttpStatus.OK).body(projectRepository
-                    .save(new Blog(project.getId(),
-                            project.getTitle(),
-                            project.getBody(),
-                            project.getTags())));
+            return ResponseEntity.status(HttpStatus.OK).body(projectRepository.save(project));
         } catch (Exception ex) {
             return ResponseEntity.status(HttpStatus.CONFLICT).body(ex.getMessage());
         }

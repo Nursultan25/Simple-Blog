@@ -18,6 +18,7 @@ public class Blog implements Serializable {
             @GeneratedValue(strategy = GenerationType.AUTO)
     Long id;
 
+    @Column(length = 30)
     String title;
 
     String body;
