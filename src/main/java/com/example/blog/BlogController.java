@@ -1,4 +1,4 @@
-package com.example.todo;
+package com.example.blog;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
