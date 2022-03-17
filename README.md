@@ -1,8 +1,6 @@
-#Simple Blog application 
+#Simple Blog application
 
-
-
-<img src="https://camo.githubusercontent.com/..." src="https://ichi.pro/assets/images/max/724/1*AbiX4LwtSNozoyfypcKvEg.png" width="100" height="100" />
+<img src="https://ichi.pro/assets/images/max/724/1*AbiX4LwtSNozoyfypcKvEg.png" width="100" height="100" />
 
 ##Descripton
 
