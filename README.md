@@ -3,7 +3,6 @@
 
 
 <img src="https://commons.bmstu.wiki/images/5/59/Spring-boot-logo.png" alt="drawing" width="300" height="160" />
->>>>>>> 7b0dfe080974efd5ab9bea81c9ada53e4c3f5ea0
 
 ## Descripton
 
